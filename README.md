@@ -1,1 +1,3 @@
 # Unsupervised-Learning-Challenge
+
+This repository contains my submission for UTA Data Analytics and Visualization Bootcamp Challenge 19 regarding Unsupervised Learning. This challenge consists of an analysis of the price changes of various cryptocurrencies over varying timeframes. The data is standardized and grouped into relevant clusters using KMeans. Then, this clustering is compared to clustering using a Principal Component Analysis (PCA) with three principal components.
